@@ -1,4 +1,4 @@
-<h1>Business Website Design - Task 1</h1>
+<h1>Business Website Design - Task 1 at Prodigy Infotech</h1>
 This repository showcases the design completed for Task 1 during my internship at Prodigy Infotech. The objective was to create a visually stunning and responsive business website template, demonstrating both creativity and technical skills.
 
 
@@ -14,3 +14,7 @@ As part of my internship at Prodigy Infotech, I had the opportunity to design a 
 <b>HTML5:</b> For the website's structure.<br>
 <b>CSS3:</b> For styling and layout.<br>
 <b>JavaScript:</b> For interactive and dynamic elements.
+
+
+https://github.com/snehaxaaa/PRODIGY_WD_01/assets/146460728/362cd9be-35ae-4aac-815d-ea72ace45142
+
